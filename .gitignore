@@ -158,3 +158,9 @@ cache.json
 start*.bat
 .workbuddy/
 myConfig/
+
+# 本项目本地凭据/产物，绝不能提交
+cookies.txt
+config.ini
+*.log
+.env
